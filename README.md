@@ -1,6 +1,6 @@
-1. Проанализировать данные в файле
-2. Построить гипотезы
-3. Обучить логистическую регрессию
-4. Снять метрики качества
+1. Analyze the data in the file
+2. Build hypotheses
+3. Train logistic regression
+4. Take quality metrics
 
-В файле поле Marker - целевая функция
+In the file, the Marker field is the target function
